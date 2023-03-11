@@ -1,0 +1,17 @@
+str - metin
+int - tam sayi
+float - ondalikli sayi
+list - veri tipleri liste halindedir
+dict - anahtar ve deger seklinde liste formati vardir.her anahtarin bir degeri vardir.Anahtarlar tekrarlanamaz
+bool - True veya False degerlerini alir.jarsilastirmlarda kullanilir
+
+egitimlerin ve basliklarin isimleri str dir
+egitimin yuzde ne kdar bitirildigi kismi ise int dir.
+
+kodlama.io da ki giris yap, kayitol ve alinan dersler sart bloklatiyla belirlenmistir
+
+isLogin = True
+if isLogin:
+    print("Your Courses")
+else:
+    print("Login")
