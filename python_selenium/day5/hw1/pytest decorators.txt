@@ -1,0 +1,5 @@
+skip : test fonksiyonunu atlar
+skipif : test fonksiyonunu sartlar uyuyorsa atlar
+parameterize: test fonksiyonunu farkli parametrelerle dener
+filterwarnings : test fonksiyonuna uyari ekler
+xfail: hata verecegini bildigimiz testleri calistirip beklenen hata ciktisini verir
